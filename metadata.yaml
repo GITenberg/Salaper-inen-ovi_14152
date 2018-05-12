@@ -1,0 +1,36 @@
+_repo: Salaper-inen-ovi_14152
+_version: 0.1.0
+alternative_title: Strange Case of Dr. Jekyll and Mr. Hyde. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stevenson, Robert Louis
+    alias: Stevenson, R. L. (Robert Louis)
+    birthdate: 1850
+    deathdate: 1894
+    gutenberg_agent_id: '35'
+    url: http://www.gutenberg.org/2009/agents/35
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Louis_Stevenson
+description: ''
+gutenberg_bookshelf: Movie Books
+gutenberg_issued: '2004-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14152'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Multiple personality -- Fiction'
+- !lcc 'PR'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Self-experimentation in medicine -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Horror tales'
+- !lcsh 'Physicians -- Fiction'
+title: Salaperäinen ovi
+url: http://www.gutenberg.org/ebooks/14152
